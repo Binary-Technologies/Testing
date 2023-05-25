@@ -1,4 +1,4 @@
-ypress project running commands-
+Cypress project running commands-
 
 1) npm install
 
